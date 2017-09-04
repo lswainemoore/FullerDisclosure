@@ -1,3 +1,5 @@
+# Fuller Disclosure
+
 ## Description
 
 This project is the culmination of work I did for my computer science senior project this past spring. For a more thorough description of the project, see [this repo](https://github.com/lswainemoore/conflicts_of_interest). 
