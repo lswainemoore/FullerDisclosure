@@ -4,7 +4,7 @@
 
 This project is the culmination of work I did for my computer science senior project this past spring. For a more thorough description of the project, see [this repo](https://github.com/lswainemoore/conflicts_of_interest). 
 
-This repo contains the code for a twitter bot, operating with the handle @FullerDisclosure, that uses the modeling work from my senior project to evaluate whether a given tweet (retweets or originals) from a member of Congress discuss industries from which that member has received significant amounts of money. The bot flags any tweets which do exhibit these conflicts of interest in its own timeline.
+This repo contains the code for a twitter bot, operating for now with the handle @FullerDisclosur (thanks to Twitter character limits), that uses the modeling work from my senior project to evaluate whether a given tweet (retweets or originals) from a member of Congress discuss industries from which that member has received significant amounts of money. The bot flags any tweets which do exhibit these conflicts of interest in its own timeline.
 
 ## Disclaimer
 
