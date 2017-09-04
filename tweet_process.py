@@ -6,7 +6,7 @@ import pandas as pd
 data_relative_path = "./"
 
 model_name = 'bdt_model.sklearn'
-model_threshold = 0.2
+model_threshold = 1.0
 
 with open(data_relative_path + "donations_industry.json", 'r') as f:
     donations_industry = json.load(f)
